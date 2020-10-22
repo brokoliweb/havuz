@@ -1,4 +1,18 @@
-.title {
+body {
     background-color: black;
     color: white;
+    text-align: center;
+}
+
+.title {
+    font-size: 6em;
+}
+
+
+.hero-image {
+    background-image: url(./images/havuz001.jpg);
+    height: 50vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
